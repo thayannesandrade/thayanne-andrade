@@ -1,6 +1,7 @@
 ##
 
-![Thayanne Andrade - Site Pessoal](img\capa-site.png)
+<img src="img\capa-site.png" alt="Site Pessoal - Thayanne Andrade" width="100%">
+
 
 <br />
 
