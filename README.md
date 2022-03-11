@@ -1,4 +1,6 @@
-##
+## Landing Page - Thayanne Andrade
+
+<br />
 
 <img src="img\capa-site.png" alt="Site Pessoal - Thayanne Andrade" width="100%">
 
@@ -7,7 +9,7 @@
 
 # Oficina {Reprograma}
 
-Este site foi desenvolvido seguindo as instruções da oficina ministrada pelo {Reprograma} como uma avaliação referente a segunda fase para seleção do curso de Formação em Front End. 
+Esta landing page foi desenvolvida seguindo as instruções da oficina ministrada pelo {Reprograma} como uma avaliação referente a segunda fase para seleção do curso de Formação em Front End. 
 
 <img src="img\corpo-site.png" alt="Site Pessoal - Thayanne Andrade" width="100%">
 
